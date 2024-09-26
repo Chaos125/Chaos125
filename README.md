@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chaos125
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in Genetic Design AI, Game Design and Cloud Computing
+- 🌱 I’m currently learning Python and Java (I'm a baby chick in terms of knowledge and experience)
+- 💞️ I’m looking to collaborate on projects and Hackathons so as to gain experience and exposure
+- 📫 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
